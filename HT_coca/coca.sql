@@ -6,6 +6,6 @@ INSERT INTO `items` (`name`,`label`,`limit`) VALUES
 	('chivatoscoca', 'Chivatos de coca', 50),
 	('hojacoca', 'Hoja de cocaina', 50),
 	('acidosulfurico', 'Acido sulfurico', 10),
-	('acidosulfurico', 'Acido Cloridico', 10),
+	('acidocloridico', 'Acido Cloridico', 10),
 	('dicromatopotasio', 'Dicromato de potasio', 10),
 	('restoscoca', 'Restos de cocaina', 50);
