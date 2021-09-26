@@ -195,7 +195,7 @@ function cristalizando()
 	playAnim("anim@heists@humane_labs@emp@hack_door", "hack_intro", 105000)
 	Citizen.Wait(105000)
 	FreezeEntityPosition(player, false)
-	TriggerServerEvent('coke:processed')
+	TriggerServerEvent('coke:cristalizado')
 	isProcessing = false
 end
 
